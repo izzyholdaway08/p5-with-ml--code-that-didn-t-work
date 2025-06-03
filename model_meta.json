@@ -1,0 +1,1 @@
+{"inputUnits":[2],"outputUnits":2,"inputs":{"distance":{"dtype":"number","min":106,"max":405.81},"relativeSpeed":{"dtype":"number","min":1.5,"max":1.5}},"outputs":{"label":{"dtype":"string","min":0,"max":1,"uniqueValues":["0","1"],"legend":{"0":[1,0],"1":[0,1]}}},"isNormalized":true}
